@@ -1,11 +1,11 @@
 {
-  "name": "osc2websocket",
-  "version": "1.0.0",
+  "name": "osc2scoketio",
+  "version": "2.0.0",
   "description": "forwards osc messages to websocket",
-  "main": "osc2websocket.js",
+  "main": "osc2socketio.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node osc2websocket.js"
+    "start": "node osc2socketio.js"
   },
   "author": "",
   "license": "ISC",
